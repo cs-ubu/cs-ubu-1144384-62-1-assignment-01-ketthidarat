@@ -1,0 +1,19 @@
+{
+  "name": "csubuapp-0402",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "go": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.9.2",
+    "@types/request": "^2.47.1",
+    "request": "^2.88.0"
+  }
+}
+
